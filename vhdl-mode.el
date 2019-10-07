@@ -1,16 +1,16 @@
-;;; vhdl-mode.el --- major mode for editing VHDL code
+;;; vhdl-mode.el --- major mode for editing VHDL code  -*- lexical-binding: t; -*-
 
 ;; Copyright (C) 1992-2012 Free Software Foundation, Inc.
 
 ;; Authors:     Reto Zimmermann <reto@gnu.org>
 ;;		Rodney J. Whitby <software.vhdl-mode@rwhitby.net>
 ;; Maintainer:	Reto Zimmermann <reto@gnu.org>
-;; Version:     3.38.1
+;; Version:     3.38.2
 ;; RCS:		$Id: vhdl-mode.el,v 33.102 2015/03/12 12:37:25 reto Exp reto $
 ;; Keywords:	languages vhdl
 ;; WWW:		http://www.iis.ee.ethz.ch/~zimmi/emacs/vhdl-mode.html
 
-(defconst vhdl-version "3.38.1"
+(defconst vhdl-version "3.38.2"
   "VHDL Mode version number.")
 
 (defconst vhdl-time-stamp "2015-03-12"
