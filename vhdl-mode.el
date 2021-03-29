@@ -2454,8 +2454,6 @@ Ignore byte-compiler warnings you might see."
   (defalias 'speedbar-line-directory
     'speedbar-line-path))
 
-(define-obsolete-variable-alias 'speedbar-key-map 'speedbar-mode-map)
-
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;; Help functions / inline substitutions / macros
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
